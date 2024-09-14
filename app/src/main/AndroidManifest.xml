@@ -18,7 +18,6 @@
         android:theme="@style/Theme.Nit3213"
         tools:targetApi="34">
 
-        <!-- Login Activity -->
         <activity
             android:name=".LoginActivity"
             android:exported="true">
@@ -28,17 +27,14 @@
             </intent-filter>
         </activity>
 
-        <!-- Dashboard Activity -->
         <activity
             android:name=".DashboardActivity"
             android:exported="true" />
 
-        <!-- Details Activity (example) -->
         <activity
             android:name=".DetailsActivity"
             android:exported="true" />
 
-        <!-- Add other activities here -->
 
     </application>
 
