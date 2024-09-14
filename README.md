@@ -1,5 +1,3 @@
-Got it! Here’s a README file tailored for a tour guide app:
-
 ---
 
 # Tour Guide App
